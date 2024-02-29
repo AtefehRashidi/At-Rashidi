@@ -1,1 +1,1 @@
-This is a personal website and isn't  complete
+These files are for a personal website and aren't complete.
